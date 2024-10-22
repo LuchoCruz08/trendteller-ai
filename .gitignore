@@ -36,4 +36,4 @@ yarn-error.log*
 next-env.d.ts
 
 # config
-drizzle.config
+drizzle.config.js
